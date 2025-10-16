@@ -1,23 +1,23 @@
 # 👋 Hi, I’m Kenneth Jay Herrera  
 
 🎯 **Career Transition:** Civil Engineer & Project Manager pivoting into **Cloud Cybersecurity and DevSecOps**.  
-I’m building a solid foundation in IT, cloud, and security fundamentals — backed by hands-on labs and globally recognized certifications.  
+I’m building a strong foundation in IT, cloud, and security fundamentals — backed by hands-on labs and globally recognized certifications.  
 
 ---
 
 ## 🧠 Current Focus
-- Cloud Security, IAM, and DevSecOps Foundations  
-- Practical AWS Labs (hands-on projects for portfolio building)  
+- Cloud Security, IAM, and DevSecOps Fundamentals  
+- Practical AWS Labs (hands-on portfolio building)  
 - Preparing for **CompTIA Security+ (target: May 2026)**  
 
 ---
 
 ## 🎓 Completed Certifications & Courses
-| Course | Platform | Status |
-|---------|-----------|---------|
+| Course / Certification | Platform | Status |
+|------------------------|-----------|---------|
 | Cisco – Introduction to Cybersecurity | Cisco Networking Academy | ✅ Completed |
 | Google IT Support Professional Certificate | Coursera / Google | ✅ Completed |
-| AWS Cloud Practitioner Essentials | AWS Skill Builder | 🟡 Module 5 of 6 completed |
+| AWS Cloud Practitioner Essentials | AWS Skill Builder | 🟡 5 of 13 modules completed |
 
 ---
 
@@ -25,7 +25,7 @@ I’m building a solid foundation in IT, cloud, and security fundamentals — ba
 | Lab / Project | Focus Area | Link |
 |----------------|-------------|------|
 | AWS S3 Storage Basics | Cloud Storage & Access Control | [View on GitHub](https://github.com/kennethjayherrera/aws-labs-s3-storage-basics) |
-| AWS VPC Configuration (upcoming) | Networking & Isolation | 🔜 Coming Soon |
+| AWS VPC Configuration | Networking & Isolation | 🔜 In Progress |
 
 ---
 
@@ -47,7 +47,7 @@ I’m building a solid foundation in IT, cloud, and security fundamentals — ba
 ## 📈 Goals Ahead
 - Earn **AWS Certified Cloud Practitioner** by early 2026  
 - Take **CompTIA Security+** by May 2026  
-- Build portfolio-ready **cloud security and automation projects** for mid-level migration roles (CA/AU/NZ)  
+- Build portfolio-ready **cloud security and automation projects** for mid-level migration roles (CA / AU / NZ)  
 
 ---
 
