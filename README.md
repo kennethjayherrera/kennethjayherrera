@@ -1,44 +1,60 @@
-# 👋 Hi — I’m Kenneth Jay Herrera
+# 👋 Hi, I’m Kenneth Jay Herrera  
 
-I’m a Civil Engineer building a career in Cloud Security and DevSecOps. I focus on Infrastructure as Code (IaC), security automation, and cloud best practices.
-
-I recently completed the Google IT Support Professional Certificate and am progressing through AWS Cloud and Security+ learning paths.
-
-## Table of contents
-
-- [What I’m working on](#what-im-working-on)
-- [Skills & tools](#skills--tools)
-- [Featured projects](#featured-projects)
-- [Contact](#contact)
+🎯 **Career Transition:** Civil Engineer & Project Manager pivoting into **Cloud Cybersecurity and DevSecOps**.  
+I’m building a solid foundation in IT, cloud, and security fundamentals — backed by hands-on labs and globally recognized certifications.  
 
 ---
 
-## 🚀 What I’m working on
-
-- Hands-on projects using Terraform, Docker, and GitHub Actions
-- Security automation using tfsec, Trivy, and CodeQL
-- Preparing for AWS Cloud certifications and Security+
-
----
-
-## 🛠️ Skills & tools
-
-- Languages / scripting: Python, Bash
-- Cloud & IaC: AWS, Terraform
-- DevSecOps & scanning: GitHub Actions, tfsec, Trivy, Checkov, CodeQL
-- Tools & other: Linux, VS Code, GitHub Desktop
+## 🧠 Current Focus
+- Cloud Security, IAM, and DevSecOps Foundations  
+- Practical AWS Labs (hands-on projects for portfolio building)  
+- Preparing for **CompTIA Security+ (target: May 2026)**  
 
 ---
 
-## 📂 Featured projects
-
-- 🔐 [Cloud Audit Script](https://github.com/kennethjayherrera/cloud-audit-script) — Python script to detect misconfigured or public S3 buckets
-- 🛡️ [Terraform Secure VPC](https://github.com/kennethjayherrera/terraform-secure-vpc) — Example IaC with tfsec scanning and secure defaults
-- 🐳 [Container Security Demo](https://github.com/kennethjayherrera/container-security-demo) — Docker images scanned with Trivy in CI
+## ✅ Completed Certifications & Courses
+| Certification / Course | Platform | Status |
+|------------------------|-----------|---------|
+| Cisco – Introduction to Cybersecurity | Cisco Networking Academy | ✅ Completed |
+| Google IT Support Professional Certificate | Coursera / Google | ✅ Completed |
+| AWS Cloud Practitioner Essentials | AWS Skill Builder | 🟡 Module 5 of 6 completed |
+| AWS Lab: Simple Storage Service (S3) | AWS Console | ✅ Completed |
 
 ---
 
-## 🌐 Contact
+## 🧩 In Progress
+- AWS Cloud Practitioner Essentials – Final Module & Exam Prep  
+- AWS Lab: Virtual Private Cloud (VPC) Configuration  
+- Developing a small-scale AWS IAM Policy & Security Automation Demo  
 
-- LinkedIn: https://linkedin.com/in/herrerakennethjay
-- Email: herrera.kennj@gmail.com 
+---
+
+## 🚀 Upcoming Portfolio Projects (Q4 2025 – Q1 2026)
+- **Cloud Security Lab Series:** Automating IAM policies, S3 access control, and CloudWatch alerts  
+- **SOC Simulation Practice:** Basic incident triage & log analysis (Splunk / Security Onion)  
+- **Vulnerability Scan Walkthrough:** Using open-source tools to detect and report system weaknesses  
+
+---
+
+## 🛠️ Technical Stack & Tools
+**Cloud:** AWS | Azure (introductory)  
+**Security:** Wireshark | Nmap | Security Onion | Splunk (basic)  
+**Automation & Scripting:** Python | Bash | Git  
+**Project Management:** Trello | Notion | MS Project | Agile Concepts  
+
+---
+
+## 📈 Goals Ahead
+- Earn **AWS Certified Cloud Practitioner** by early 2026  
+- Take **CompTIA Security+** by May 2026  
+- Build portfolio-ready **cloud security and automation projects** for mid-level migration roles (CA/AU/NZ)  
+
+---
+
+### 📬 Connect with Me
+- 🌐 [[LinkedIn](#)](https://www.linkedin.com/in/herrerakennethjay/) – Open to remote cybersecurity internships & cloud security roles  
+- 📧 kennethjayh@gmail.com  
+
+---
+
+> “Building security from the ground up — one lab, one skill at a time.”  
