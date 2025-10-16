@@ -17,7 +17,7 @@ I’m building a solid foundation in IT, cloud, and security fundamentals — ba
 |------------------------|-----------|---------|
 | Cisco – Introduction to Cybersecurity | Cisco Networking Academy | ✅ Completed |
 | Google IT Support Professional Certificate | Coursera / Google | ✅ Completed |
-| AWS Cloud Practitioner Essentials | AWS Skill Builder | 🟡 Module 5 of 6 completed |
+| AWS Cloud Practitioner Essentials | AWS Skill Builder | 🟡 Module 5 of 13 completed |
 | AWS Lab: Simple Storage Service (S3) | AWS Console | ✅ Completed |
 
 ---
