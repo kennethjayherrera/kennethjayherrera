@@ -12,20 +12,20 @@ I’m building a solid foundation in IT, cloud, and security fundamentals — ba
 
 ---
 
-## ✅ Completed Certifications & Courses
-| Certification / Course | Platform | Status |
-|------------------------|-----------|---------|
+## 🎓 Completed Certifications & Courses
+| Course | Platform | Status |
+|---------|-----------|---------|
 | Cisco – Introduction to Cybersecurity | Cisco Networking Academy | ✅ Completed |
 | Google IT Support Professional Certificate | Coursera / Google | ✅ Completed |
-| AWS Cloud Practitioner Essentials | AWS Skill Builder | 🟡 Module 5 of 13 completed |
-| AWS Lab: Simple Storage Service (S3) | AWS Console | ✅ Completed |
+| AWS Cloud Practitioner Essentials | AWS Skill Builder | 🟡 Module 5 of 6 completed |
 
 ---
 
-## 🧩 In Progress
-- AWS Cloud Practitioner Essentials – Final Module & Exam Prep  
-- AWS Lab: Virtual Private Cloud (VPC) Configuration  
-- Developing a small-scale AWS IAM Policy & Security Automation Demo  
+## 🧪 Hands-On Labs & Projects
+| Lab / Project | Focus Area | Link |
+|----------------|-------------|------|
+| AWS S3 Storage Basics | Cloud Storage & Access Control | [View on GitHub](https://github.com/kennethjayherrera/aws-labs-s3-storage-basics) |
+| AWS VPC Configuration (upcoming) | Networking & Isolation | 🔜 Coming Soon |
 
 ---
 
